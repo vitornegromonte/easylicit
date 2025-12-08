@@ -1,0 +1,30 @@
+{
+  "node": {
+    "8659ae738db49c1f9b87d462d456f722570d4c7c": {
+      "workers": {
+        "app/nova-analise/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fvitor%2Fdevelopment%2FeasyLicit%2Fapp%2Factions%2Fanalysis.js%22%2C%5B%22analyzeEdital%22%2C%22analyzeProposta%22%2C%22generateAppeal%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/nova-analise/page": "action-browser"
+      }
+    },
+    "9bdc0324d1a054717e9144754762258fbf030b27": {
+      "workers": {
+        "app/nova-analise/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fvitor%2Fdevelopment%2FeasyLicit%2Fapp%2Factions%2Fanalysis.js%22%2C%5B%22analyzeEdital%22%2C%22analyzeProposta%22%2C%22generateAppeal%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/nova-analise/page": "action-browser"
+      }
+    },
+    "a59df0e3444af94f8e81aca888608d8d57abeb17": {
+      "workers": {
+        "app/nova-analise/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fvitor%2Fdevelopment%2FeasyLicit%2Fapp%2Factions%2Fanalysis.js%22%2C%5B%22analyzeEdital%22%2C%22analyzeProposta%22%2C%22generateAppeal%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/nova-analise/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "4olLaKclAGxaPztqQdT2t+W9S5ruSZFhnecLpe4A+p8="
+}
