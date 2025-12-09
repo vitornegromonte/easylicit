@@ -26,7 +26,7 @@ Plataforma SaaS para análise inteligente de documentos de licitações pública
 
 ## Tecnologias
 
-- **Next.js 14** - Framework React
+- **Next.js 16** - Framework React
 - **Cohere AI** - Análise de documentos com IA (modelo command-r7b-12-2024)
 - **Tailwind CSS** - Estilização
 - **pdf-parse** - Processamento de PDFs
